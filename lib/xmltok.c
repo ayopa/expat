@@ -3,6 +3,9 @@ Copyright (c) 1998, 1999 Thai Open Source Software Center Ltd
 See the file COPYING for copying permission.
 */
 
+static char RCSId[]
+  = "$Header: /cvsroot/expat/expat/lib/xmltok.c,v 1.4 2000/09/29 14:57:45 coopercc Exp $";
+
 #include <config.h>
 #include "xmltok.h"
 #include "nametab.h"
