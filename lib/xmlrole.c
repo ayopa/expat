@@ -1,15 +1,11 @@
-/*
-Copyright (c) 1998, 1999 Thai Open Source Software Center Ltd
-See the file COPYING for copying permission.
+/* Copyright (c) 1998, 1999 Thai Open Source Software Center Ltd
+   See the file COPYING for copying permission.
 */
-
-static char RCSId[]
-  = "$Header: /cvsroot/expat/expat/lib/xmlrole.c,v 1.5 2000/10/22 19:20:23 coopercc Exp $";
 
 #ifdef COMPILED_FROM_DSP
 #  include "winconfig.h"
 #else
-#  include <config.h>
+#  include <expat_config.h>
 #endif /* ndef COMPILED_FROM_DSP */
 
 #include "xmlrole.h"
