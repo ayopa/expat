@@ -3,9 +3,6 @@ Copyright (c) 1998, 1999 Thai Open Source Software Center Ltd
 See the file COPYING for copying permission.
 */
 
-static char RCSId[]
-  = "$Header: /cvsroot/expat/expat/lib/xmltok.c,v 1.6 2001/02/16 18:12:49 fdrake Exp $";
-
 #ifdef COMPILED_FROM_DSP
 #  include "winconfig.h"
 #else
